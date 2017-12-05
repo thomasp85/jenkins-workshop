@@ -14,7 +14,4 @@ public class GildedRoseTest {
         assertEquals("fixme", "fixme");
     }
 
-    public void foo() {
-        assertEquals("fixme", "dontfix");
-    }
 }
