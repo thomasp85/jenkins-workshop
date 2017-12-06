@@ -1,3 +1,7 @@
+*This is the perfect branch*
+
+*Every other branch sucks*
+
 # Welcome
 This readme have three different parts:
 * [The assignemt](#coding-assignment) : if you do not know guilded rose, then read this before starting the programming exercise. If you know it, just skip this.
